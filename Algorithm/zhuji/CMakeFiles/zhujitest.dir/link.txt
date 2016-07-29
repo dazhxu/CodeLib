@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/zhujitest.dir/src/Solution.cpp.o  -o zhujitest -rdynamic 
