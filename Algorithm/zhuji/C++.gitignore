@@ -32,3 +32,4 @@
 *.app
 
 # My Configuration
+*.cmake
