@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/SumOfTwoIntegers.dir/src/Solution.cpp.o CMakeFiles/SumOfTwoIntegers.dir/src/test.cpp.o  -o SumOfTwoIntegers -rdynamic 
