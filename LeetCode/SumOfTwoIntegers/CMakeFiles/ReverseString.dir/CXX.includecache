@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/namenode/Code/Personal/LDMC/xyz/CodeLib/LeetCode/ReverseString/src/Solution.cpp
+iostream
+-
+
+/home/namenode/Code/Personal/LDMC/xyz/CodeLib/LeetCode/ReverseString/src/test.cpp
+iostream
+-
+Solution.cpp
+/home/namenode/Code/Personal/LDMC/xyz/CodeLib/LeetCode/ReverseString/src/Solution.cpp
+
