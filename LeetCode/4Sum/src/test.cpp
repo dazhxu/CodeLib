@@ -13,12 +13,12 @@ using namespace std;
 
 int main() {
     Solution *s = new Solution();
-    vector<int> nums={-1,0,1,2,-1,-4};
-    vector<vector<int>> result = s->threeSum(nums);
+    vector<int> nums={0,0,0,0};
+    vector<vector<int>> result = s->fourSum(nums,0);
     cout<<"["<<endl;
     for(auto &item : result) {
         cout<<"  [";
-        fo(auto &num : item) {
+        for(auto &num : item) {
             cout<<num<<",";
         }
         cout<<"],"<<endl;
