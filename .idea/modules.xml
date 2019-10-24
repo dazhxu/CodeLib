@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode-Java/3SumClosest/3SumClosest.iml" filepath="$PROJECT_DIR$/LeetCode-Java/3SumClosest/3SumClosest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode-Java/4Sum/4Sum.iml" filepath="$PROJECT_DIR$/LeetCode-Java/4Sum/4Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeLib.iml" filepath="$PROJECT_DIR$/CodeLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode-Java/CombinationSumIII/CombinationSumIII.iml" filepath="$PROJECT_DIR$/LeetCode-Java/CombinationSumIII/CombinationSumIII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode-Java/ContainsDuplicate/ContainsDuplicate.iml" filepath="$PROJECT_DIR$/LeetCode-Java/ContainsDuplicate/ContainsDuplicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode-Java/ContainsDuplicateII/ContainsDuplicateII.iml" filepath="$PROJECT_DIR$/LeetCode-Java/ContainsDuplicateII/ContainsDuplicateII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode-Java/ContainsDuplicateIII/ContainsDuplicateIII.iml" filepath="$PROJECT_DIR$/LeetCode-Java/ContainsDuplicateIII/ContainsDuplicateIII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode-Java/FindDuplicate/FindDuplicate.iml" filepath="$PROJECT_DIR$/LeetCode-Java/FindDuplicate/FindDuplicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode-Java/FirstMissingPositive/FirstMissingPositive.iml" filepath="$PROJECT_DIR$/LeetCode-Java/FirstMissingPositive/FirstMissingPositive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WrittenTest/GoogleOA1/GoogleOA1.iml" filepath="$PROJECT_DIR$/WrittenTest/GoogleOA1/GoogleOA1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode-Java/LongestPalindrome/LongestPalindrome.iml" filepath="$PROJECT_DIR$/LeetCode-Java/LongestPalindrome/LongestPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode-Java/LongestSubstring/LongestSubstring.iml" filepath="$PROJECT_DIR$/LeetCode-Java/LongestSubstring/LongestSubstring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode-Java/MissingNumber/MissingNumber.iml" filepath="$PROJECT_DIR$/LeetCode-Java/MissingNumber/MissingNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode-Java/ProductOfArrayExceptSelf/ProductOfArrayExceptSelf.iml" filepath="$PROJECT_DIR$/LeetCode-Java/ProductOfArrayExceptSelf/ProductOfArrayExceptSelf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode-Java/ReorderList/ReorderList.iml" filepath="$PROJECT_DIR$/LeetCode-Java/ReorderList/ReorderList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode-Java/SetMatrixZeros/SetMatrixZeros.iml" filepath="$PROJECT_DIR$/LeetCode-Java/SetMatrixZeros/SetMatrixZeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode-Java/SummaryRanges/SummaryRanges.iml" filepath="$PROJECT_DIR$/LeetCode-Java/SummaryRanges/SummaryRanges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode-Java/ValidSudoku/ValidSudoku.iml" filepath="$PROJECT_DIR$/LeetCode-Java/ValidSudoku/ValidSudoku.iml" />
     </modules>
   </component>
 </project>
